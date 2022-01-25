@@ -2,6 +2,7 @@
 
 This is a GUI based project which was given for the course of Data Structures and Algorithms in my 3rd semester.
 
+#
 🔴 About the Project:
 
   🔹 Reads data from a .txt file named PPI-1 and processes it into a graphical form.
@@ -10,7 +11,7 @@ This is a GUI based project which was given for the course of Data Structures an
 
 
 
-
+#
 🔴 Operations it can do:
 
   🔹 Display the adjacency list of the graph.
