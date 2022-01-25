@@ -9,6 +9,8 @@ This is a GUI based project which was given for the course of Data Structures an
 🔹 Uses SDL2 to display the graph in a circular form with nodes and edges.
 
 
+
+
 🔴 Operations it can do:
 
 🔹 Display the adjacency list of the graph.
